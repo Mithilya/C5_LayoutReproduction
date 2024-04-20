@@ -50,10 +50,9 @@ th {
 }
 
 nav {
-    background-color: #f60; /* Set background color to orange */
-    width: 100%; /* Make it wider */
-    padding: 5px 0; /* Add padding top and bottom */
-}
+    background-color: #f60; 
+    width: 100%; 
+    padding: 5px 0; 
 
 nav a {
     color: #000;
